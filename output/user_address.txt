@@ -1,4 +1,5 @@
-# 订阅源列表，每行一个订阅地址
+# 这是订阅源列表，每行一个订阅地址
+# This is a list of subscription sources, with one subscription address per line
 
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
@@ -6,24 +7,29 @@ https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-
-#其他
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-
-#自搜集
-https://jihulab.com/237331946/2/-/raw/main/live.txt
-https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
-http://west.shaonv.me/tvbox/live.txt
-http://api.lmxsd.cn/2485.txt
 https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
-https://gitee.com/qlysgzs/qlys/raw/master/qlyc_tv.txt
-https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
-https://live.hacks.tools/tv/iptv4.txt
-https://live.hacks.tools/tv/iptv4.m3u
-http://rihou.cc:555/gggg.nzk
 
+备用源
+Meroser IPTV：
+https://github.com/Meroser/IPTV/blob/main/IPTV-demo.m3u
+vbskycn  iptv：
+https://zbds.org/tv/iptv4.txt
+https://zbds.org/tv/iptv4.m3u
+
+部分海外源
+中国大陆频道：https://epg.pw/test_channels.m3u
+香港频道：https://epg.pw/test_channels_hong_kong.m3u
+澳门频道：https://epg.pw/test_channels_macau.m3u
+台湾频道：https://epg.pw/test_channels_taiwan.m3u
+台湾频道：https://iptv-org.github.io/iptv/countries/tw.m3u
+新加坡频道：https://epg.pw/test_channels_singapore.m3u
+马来西亚频道：https://epg.pw/test_channels_malaysia.m3u
+
+【典藏版】高清直播
+https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 
 ----------------------------------------------------------------------------------------------
 #demo.txt
