@@ -463,6 +463,7 @@ CCTV-17,http://nas.suntao.online:35455/itv/1000000005000265015.m3u8?cdn=ystenliv
 明珠台,https://migu.188766.xyz/?migutoken=0f312e2fcb1446f1ed361567bd85d5ff&id=pearl_twn&type=dy
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中天新闻,https://hls-gateway.vpstv.net/streams/477695.m3u8
 中天新闻,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv009
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
