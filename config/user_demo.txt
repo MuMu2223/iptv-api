@@ -1,22 +1,34 @@
 📺央视频道,#genre#
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV-5+
-CCTV-6
-CCTV-7
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
-CCTV-16
-CCTV-17
+CCTV-1综合
+CCTV-2财经
+CCTV-3综艺
+CCTV-4 中文国际
+CCTV-5 体育
+CCCTV5+ 体育赛事
+CCTV-6 电影频道
+CCTV-7 国防军事
+CCTV-8 电视剧频道
+CCTV-9 纪录
+CCTV-10 科教
+CCTV-11 戏曲
+CCTV-12 社会与法
+CCTV-13 新闻
+CCTV-14 少儿
+CCTV-15 音乐
+CCTV-16 奥林匹克
+CCTV-17 农业农村
+CCTV-世界地理
+CCTV-文化精品
+CCTV-第一剧场
+CCTV-怀旧剧场
+CCTV-发现之旅
+CCTV-老故事
+CCTV-兵器科技
+CCTV-风云剧场
+CCTV-风云音乐
+CCTV-风云足球
+CCTV-央视台球
+CCTV高尔夫·网球
 
 ☘️广东频道,#genre#
 广东珠江
@@ -82,6 +94,9 @@ Now华剧
 卫视卡式
 
 🌊港·澳·台【备用】,#genre#
+鳳凰衛視中文台
+鳳凰衛視香港台
+鳳凰衛視資訊台
 TVB J1
 TVB翡翠台
 TVB翡翠台 1080P
