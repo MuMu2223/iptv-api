@@ -32,3 +32,22 @@ https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
 https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8
 # iptv
 https://zbds.org/tv/iptv4.m3u
+
+---------------------------------------------
+在用源
+
+https://zbds.org/tv/iptv4.txt
+https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
+https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
+# bxtv的订阅连接（https://bxtv.3a.ink/live.m3u）暂停中
+
+
