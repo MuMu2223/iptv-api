@@ -2,7 +2,7 @@
 2025-09-26 23:42:36,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 📺央视频道,#genre#
-CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
 CCTV-1,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 CCTV-1,http://ms.fxim.net:808/hls/1/index.m3u8
 CCTV-1,http://221.2.148.205:8154/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
