@@ -17,6 +17,8 @@ CCTV-14 少儿
 CCTV-15 音乐
 CCTV-16 奥林匹克
 CCTV-17 农业农村
+
+📺央视付费频道,#genre#
 CCTV-世界地理
 CCTV-文化精品
 CCTV-第一剧场
