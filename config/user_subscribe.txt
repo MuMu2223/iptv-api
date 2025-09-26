@@ -13,4 +13,3 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
 https://ghfast.top/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u
-# bxtv的订阅连接（https://bxtv.3a.ink/live.m3u）暂停中
