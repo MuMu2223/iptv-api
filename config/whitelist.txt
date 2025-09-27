@@ -34,17 +34,24 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #🎬-影星专场-,#genre#
 周星驰国语,http://131.186.40.172:15002/huya/11342412
 周星驰粤语,http://131.186.40.172:15002/huya/11336587
+林正英电影,http://iptv.jxpan.vip:18888/aio/huya/11342421
 杰森斯坦电影,http://cfss.cc/cdn/hy/21059588.m3u8
 
 #🎬电视剧频道,#genre#
 爱情公寓,http://cfss.cc/cdn/hy/11336726.m3u8
+爱情公寓,http://iptv.jxpan.vip:18888/aio/huya/11336726
 寻秦记,http://cfss.cc/cdn/hy/29465848.m3u8
+寻秦记,http://iptv.jxpan.vip:18888/aio/huya/29465848
 铁齿铜牙纪晓岚,https://live.metshop.top/huya/11342396
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.m3u8
 鬼吹灯之精绝古城,http://cfss.cc/cdn/hy/11352871.m3u8
 鬼吹灯之怒晴湘西,http://cfss.cc/cdn/hy/11602075.m3u8
-鬼吹灯之龙岭迷窟
+鬼吹灯之龙岭迷窟,http://iptv.jxpan.vip:18888/aio/huya/29465863
 鬼吹灯之云南虫谷,http://cfss.cc/cdn/hy/11352898.m3u8
+鬼吹灯之精绝古城,http://iptv.jxpan.vip:18888/aio/huya/11352871
+鬼吹灯之怒晴湘西,http://iptv.jxpan.vip:18888/aio/huya/11602075
+鬼吹灯之龙岭迷窟,http://iptv.jxpan.vip:18888/aio/huya/29465863
+鬼吹灯之云南虫谷,http://iptv.jxpan.vip:18888/aio/huya/11352898
 
 #🎵演唱会,#genre#
 周传雄演唱会,https://vd2.bdstatic.com/mda-nmgc0ms3fm9b3bu3/576p/h264/1671266481202765955/mda-nmgc0ms3fm9b3bu3.mp4
