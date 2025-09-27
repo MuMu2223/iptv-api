@@ -231,7 +231,7 @@ NewTV动作电影
 沈腾电影
 王晶电影
 强森电影
-杰森斯坦电影
+杰森斯坦电影,http://cfss.cc/cdn/hy/21059588.m3u8
 
 #🎬电视剧频道,#genre#
 龙门镖局
@@ -249,10 +249,11 @@ NewTV动作电影
 倚天屠龙记
 仙剑奇侠传
 铁齿铜牙纪晓岚,https://live.metshop.top/huya/11342396
-鬼吹灯之精绝古城
-鬼吹灯之怒晴湘西
+铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.m3u8
+鬼吹灯之精绝古城,http://cfss.cc/cdn/hy/11352871.m3u8
+鬼吹灯之怒晴湘西,http://cfss.cc/cdn/hy/11602075.m3u8
 鬼吹灯之龙岭迷窟
-鬼吹灯之云南虫谷
+鬼吹灯之云南虫谷,http://cfss.cc/cdn/hy/11352898.m3u8
 
 #🏀体育频道,#genre#
 CCTV-5
