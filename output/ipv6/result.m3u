@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MuMu2223/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-10-01 18:37:50
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-10-04 14:42:49
 http://ygbh.site/php/bfgd.php?id=488
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="📺央视超清频道",CCTV-1 综合
 http://ygbh.site/php/bfgd.php?id=488
@@ -217,8 +217,6 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="中天新闻「LiTV」" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻「LiTV」.png" group-title="🌊港·澳·台",中天新闻「LiTV」
 http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-#EXTINF:-1 tvg-name="中天新闻「LiTV」" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻「LiTV」.png" group-title="🌊港·澳·台",中天新闻「LiTV」
-http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 #EXTINF:-1 tvg-name="周星驰国语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰国语.png" group-title="🎬-影星专场-",周星驰国语
 http://131.186.40.172:15002/huya/11342412
 #EXTINF:-1 tvg-name="周星驰粤语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰粤语.png" group-title="🎬-影星专场-",周星驰粤语
@@ -237,8 +235,6 @@ http://cfss.cc/cdn/hy/11336726.m3u8
 http://iptv.jxpan.vip:18888/aio/huya/11336726
 #EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="🎬电视剧频道",爱情公寓
 http://iptv.jxpan.vip:18888/aio/huya/11336726
-#EXTINF:-1 tvg-name="爱情公寓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱情公寓.png" group-title="🎬电视剧频道",爱情公寓
-http://cfss.cc/cdn/hy/11336726.m3u8
 #EXTINF:-1 tvg-name="寻秦记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寻秦记.png" group-title="🎬电视剧频道",寻秦记
 http://cfss.cc/cdn/hy/29465848.m3u8
 #EXTINF:-1 tvg-name="寻秦记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/寻秦记.png" group-title="🎬电视剧频道",寻秦记
@@ -253,14 +249,14 @@ https://live.metshop.top/huya/11342396
 http://cfss.cc/cdn/hy/11342396.m3u8
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🎬电视剧频道",铁齿铜牙纪晓岚
 http://cfss.cc/cdn/hy/11342396.m3u8
+#EXTINF:-1 tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚.png" group-title="🎬电视剧频道",铁齿铜牙纪晓岚
+https://live.metshop.top/huya/11342396
 #EXTINF:-1 tvg-name="鬼吹灯之精绝古城" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鬼吹灯之精绝古城.png" group-title="🎬电视剧频道",鬼吹灯之精绝古城
 http://cfss.cc/cdn/hy/11352871.m3u8
 #EXTINF:-1 tvg-name="鬼吹灯之精绝古城" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鬼吹灯之精绝古城.png" group-title="🎬电视剧频道",鬼吹灯之精绝古城
 http://iptv.jxpan.vip:18888/aio/huya/11352871
 #EXTINF:-1 tvg-name="鬼吹灯之精绝古城" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鬼吹灯之精绝古城.png" group-title="🎬电视剧频道",鬼吹灯之精绝古城
 http://iptv.jxpan.vip:18888/aio/huya/11352871
-#EXTINF:-1 tvg-name="鬼吹灯之精绝古城" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鬼吹灯之精绝古城.png" group-title="🎬电视剧频道",鬼吹灯之精绝古城
-http://cfss.cc/cdn/hy/11352871.m3u8
 #EXTINF:-1 tvg-name="鬼吹灯之怒晴湘西" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鬼吹灯之怒晴湘西.png" group-title="🎬电视剧频道",鬼吹灯之怒晴湘西
 http://cfss.cc/cdn/hy/11602075.m3u8
 #EXTINF:-1 tvg-name="鬼吹灯之怒晴湘西" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鬼吹灯之怒晴湘西.png" group-title="🎬电视剧频道",鬼吹灯之怒晴湘西

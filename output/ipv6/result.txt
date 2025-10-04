@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-01 18:37:50,http://ygbh.site/php/bfgd.php?id=488
+2025-10-04 14:42:49,http://ygbh.site/php/bfgd.php?id=488
 
 📺央视超清频道,#genre#
 CCTV-1 综合,http://ygbh.site/php/bfgd.php?id=488
@@ -120,7 +120,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 中天新闻「LiTV」,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
-中天新闻「LiTV」,http://5.44.249.130:5002/ts/8i2mwhruaecye9fa.ts
 
 🎬电影频道,#genre#
 
@@ -138,7 +137,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 爱情公寓,http://cfss.cc/cdn/hy/11336726.m3u8
 爱情公寓,http://iptv.jxpan.vip:18888/aio/huya/11336726
 爱情公寓,http://iptv.jxpan.vip:18888/aio/huya/11336726
-爱情公寓,http://cfss.cc/cdn/hy/11336726.m3u8
 寻秦记,http://cfss.cc/cdn/hy/29465848.m3u8
 寻秦记,http://iptv.jxpan.vip:18888/aio/huya/29465848
 寻秦记,http://iptv.jxpan.vip:18888/aio/huya/29465848
@@ -146,10 +144,10 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 铁齿铜牙纪晓岚,https://live.metshop.top/huya/11342396
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.m3u8
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.m3u8
+铁齿铜牙纪晓岚,https://live.metshop.top/huya/11342396
 鬼吹灯之精绝古城,http://cfss.cc/cdn/hy/11352871.m3u8
 鬼吹灯之精绝古城,http://iptv.jxpan.vip:18888/aio/huya/11352871
 鬼吹灯之精绝古城,http://iptv.jxpan.vip:18888/aio/huya/11352871
-鬼吹灯之精绝古城,http://cfss.cc/cdn/hy/11352871.m3u8
 鬼吹灯之怒晴湘西,http://cfss.cc/cdn/hy/11602075.m3u8
 鬼吹灯之怒晴湘西,http://iptv.jxpan.vip:18888/aio/huya/11602075
 鬼吹灯之怒晴湘西,http://iptv.jxpan.vip:18888/aio/huya/11602075
