@@ -31,7 +31,6 @@ CCTV-14 少儿,https://live.catvod.com/catvod_com.php?id=cctv14&token=5b08290d3b
 CCTV-15 音乐,https://live.catvod.com/catvod_com.php?id=cctv15&token=4474b178782dd8e3938f2894ca85986593a50186566b10a4f14a3073ffc8ef1b%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 
 📡卫视频道,#genre#
-
 广东卫视,https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=fb5da4c66a367c2ba68100b799cc69b48f29f2d7b9b55df3d4c934a6588764b7%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 广东南方卫视,https://live.catvod.com/catvod_com.php?id=nanfang_twn&token=e6c9ab94da7fcba81dbe1a82a167dc6a49a2668889922c06c39d6c5e29f2f52a%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 珠江台,https://live.catvod.com/catvod_com.php?id=zhujiang&token=e2ce938813c6d4267b00e8dac473bac9f5ad3de7427a839ff402f78bebb4f0ea%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
