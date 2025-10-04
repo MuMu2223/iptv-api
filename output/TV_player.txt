@@ -44,13 +44,13 @@ CCTV-15 音乐,https://live.catvod.com/catvod_com.php?id=cctv15&token=4474b17878
 东方卫视,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=d3fc51b1d7ac96127b1b7e763dcbd0693560a4a5a33ca44e80c308eb73bfeaef%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 
 🌊港·澳·台(Hot),#genre#
+凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=2955d9eb36fd1c3e4d4795273ec09953e832bca74437759bdca3f12c1b280fa5%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
+凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd&token=7171434b79b1fdfa33e0fca7edb3769a06f381328553ffef7d28b2c90231bd6c%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
+凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn&token=8c8aae3f102b2bf2bbe63d0efa452e7f4990a95349f855023c3cae09bed7dfa6%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn&token=008ae75645cd2c3962d8d74484c06ddfc9164d51af3f75b0e0b30b98b974e535%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 翡翠台,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=be00c116f64a6df04bcdfcfe21d490106baaddbf09e3f8a25657cdb9827b2dc0%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn&token=e8c90ff793d231b2a6724cdc8f7cd355a80870befa72cbaa43ec74626c94ff9d%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 HOY资讯台,https://live.catvod.com/catvod_com.php?id=hoycaijing_twn&token=8b322da34995aa6fee2926310eac3b0b43cb95f273df103c1f30afd7d7fb7173%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
-凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd&token=2955d9eb36fd1c3e4d4795273ec09953e832bca74437759bdca3f12c1b280fa5%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
-凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd&token=7171434b79b1fdfa33e0fca7edb3769a06f381328553ffef7d28b2c90231bd6c%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
-凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn&token=8c8aae3f102b2bf2bbe63d0efa452e7f4990a95349f855023c3cae09bed7dfa6%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 TVBS News 新闻台,https://live.catvod.com/catvod_com.php?id=tvbs_n&token=babe60af9137e9defbfa29f6ab2d972853c4763dc40cd4c07118ad352d1a0ad0%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 中天新闻 HD,https://live.catvod.com/catvod_com.php?id=ctinews&token=4d86b5b80694b2ae01e26fc4b221f7c8aef0c16f4797632689fa4bac9c306cb4%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
 台视新闻台,https://live.catvod.com/catvod_com.php?id=ttvnews_twn&token=d432ce017f353af9df24e94843b415b812d804e5ab60af3e7bc4ab0670d502fd%3A1759569300%3AMjA4Ljg3LjI0Mi4xMDU%3D
