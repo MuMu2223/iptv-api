@@ -399,6 +399,27 @@ NewTV动作电影,http://www.douzhicloud.site:35455/huya/11352884
 粤语版电影三,http://cfss.cc/cdn/dyu/1226741.m3u8
 重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
+🎬虎牙专场,#genre#
+怪兽虎牙,http://cfss.cc/cdn/hy/21059577.m3u8
+枪战虎牙,http://cfss.cc/cdn/hy/21059579.m3u8
+谍战虎牙,http://cfss.cc/cdn/hy/21059585.m3u8
+漫威虎牙,http://cfss.cc/cdn/hy/11602034.m3u8
+国产虎牙,http://cfss.cc/cdn/hy/11352973.m3u8
+黄渤虎牙,http://cfss.cc/cdn/hy/11352876.m3u8
+热血虎牙,http://cfss.cc/cdn/hy/11352934.m3u8
+战争虎牙,http://cfss.cc/cdn/hy/21059592.m3u8
+王晶虎牙,http://cfss.cc/cdn/hy/11602058.m3u8
+蘑菇影厅,http://cfss.cc/cdn/hy/11601981.m3u8
+国产悬疑,http://cfss.cc/cdn/hy/11342395.m3u8
+欢笑影院,http://cfss.cc/cdn/hy/11352894.m3u8
+搞笑恐怖,http://cfss.cc/cdn/hy/11601960.m3u8
+小鬼头播,http://cfss.cc/cdn/hy/11352963.m3u8
+黑帮斗争,http://cfss.cc/cdn/hy/11342419.m3u8
+不挤影院,http://cfss.cc/cdn/hy/11352897.m3u8
+喜剧专场,http://cfss.cc/cdn/hy/11602044.m3u8
+陈翔六点,http://cfss.cc/cdn/hy/11274154.m3u8
+沈腾虎牙,http://cfss.cc/cdn/hy/11601968.m3u8
+
 🎵音乐频道,#genre#
 CCTV-15,http://218.241.192.50:8808/rtp/239.3.1.153:8136
 CCTV-15,http://ygbh.site/php/bfgd.php?id=133
