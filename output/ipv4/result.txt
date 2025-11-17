@@ -1,32 +1,35 @@
 🕘️更新时间,#genre#
-2025-11-16 22:24:10,http://218.241.192.50:8808/rtp/239.3.1.129:8008
+2025-11-17 22:30:20,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 
 📺央视超清频道,#genre#
 CCTV-1 综合,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 CCTV-1 综合,http://ygbh.site/php/bfgd.php?id=488
 CCTV-1 综合,http://ygbh.site/php/bfgd.php?id=488
-CCTV-1 综合,http://171.116.216.113:10010/rtp/226.0.1.157:3086
+CCTV-1 综合,http://bxtv.3a.ink/migu.php?id=cctv1
 CCTV-1 综合,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv1&q=cq
+CCTV-1 综合,http://171.116.216.113:10010/rtp/226.0.1.157:3086
 CCTV-2 财经,http://218.241.192.50:8808/rtp/239.3.1.60:8084
 CCTV-2 财经,http://ygbh.site/php/bfgd.php?id=061
 CCTV-2 财经,http://ygbh.site/php/bfgd.php?id=061
+CCTV-2 财经,http://bxtv.3a.ink/migu.php?id=cctv2
 CCTV-2 财经,http://120.46.223.160/PHP/MG.php?id=631780532
 CCTV-2 财经,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv2&q=gq
 CCTV-3 综艺,http://218.241.192.50:8808/rtp/239.3.1.172:8001
 CCTV-3 综艺,http://ygbh.site/php/bfgd.php?id=062
 CCTV-3 综艺,http://ygbh.site/php/bfgd.php?id=062
-CCTV-3 综艺,http://120.46.223.160/PHP/MG.php?id=624878271
+CCTV-3 综艺,http://bxtv.3a.ink/migu.php?id=cctv3
 CCTV-3 综艺,http://1.24.39.180:9003/hls/3/index.m3u8
+CCTV-3 综艺,http://120.46.223.160/PHP/MG.php?id=624878271
 CCTV-4 中文国际,http://218.241.192.50:8808/rtp/239.3.1.105:8092
 CCTV-4 中文国际,http://ygbh.site/php/bfgd.php?id=063
 CCTV-4 中文国际,http://ygbh.site/php/bfgd.php?id=063
+CCTV-4 中文国际,http://bxtv.3a.ink/migu.php?id=cctv4
 CCTV-4 中文国际,http://120.46.223.160/PHP/MG.php?id=631780421
 CCTV-4 中文国际,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv4&q=gq
-CCTV-4 中文国际,http://1.24.39.180:9003/hls/4/index.m3u8
 CCTV-5 体育,http://218.241.192.50:8808/rtp/239.3.1.173:8001
 CCTV-5 体育,http://ygbh.site/php/bfgd.php?id=064
 CCTV-5 体育,http://218.241.192.50:8808/rtp/239.3.1.173:8001
-CCTV-5 体育,http://1.24.39.180:9003/hls/5/index.m3u8
+CCTV-5 体育,http://bxtv.3a.ink/migu.php?id=cctv5
 CCTV-5 体育,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5+ 体育赛事,http://218.241.192.50:8808/rtp/239.3.1.130:8004
 CCTV-5+ 体育赛事,http://ygbh.site/php/bfgd.php?id=246
@@ -35,58 +38,59 @@ CCTV-6 电影,http://ygbh.site/php/bfgd.php?id=065
 CCTV-7 国防军事,http://218.241.192.50:8808/rtp/239.3.1.61:8104
 CCTV-7 国防军事,http://ygbh.site/php/bfgd.php?id=127
 CCTV-7 国防军事,http://ygbh.site/php/bfgd.php?id=127
-CCTV-7 国防军事,http://120.46.223.160/PHP/MG.php?id=673168121
+CCTV-7 国防军事,http://bxtv.3a.ink/migu.php?id=cctv7
 CCTV-7 国防军事,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv7&q=cq
+CCTV-7 国防军事,http://120.46.223.160/PHP/MG.php?id=673168121
 CCTV-7 国防军事,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV-7 国防军事,http://1.24.39.180:9003/hls/7/index.m3u8
 CCTV-8 电视剧,http://218.241.192.50:8808/rtp/239.3.1.175:8001
 CCTV-8 电视剧,http://ygbh.site/php/bfgd.php?id=066
 CCTV-9 纪录,http://218.241.192.50:8808/rtp/239.3.1.62:8112
 CCTV-9 纪录,http://ygbh.site/php/bfgd.php?id=128
 CCTV-9 纪录,http://ygbh.site/php/bfgd.php?id=128
-CCTV-9 纪录,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
+CCTV-9 纪录,http://bxtv.3a.ink/migu.php?id=cctv9
 CCTV-9 纪录,http://120.46.223.160/PHP/MG.php?id=673168140
-CCTV-9 纪录,http://1.24.39.180:9003/hls/9/index.m3u8
+CCTV-9 纪录,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv9&q=gq
 CCTV-10 科教,http://218.241.192.50:8808/rtp/239.3.1.63:8116
 CCTV-10 科教,http://ygbh.site/php/bfgd.php?id=129
 CCTV-10 科教,http://ygbh.site/php/bfgd.php?id=129
+CCTV-10 科教,http://bxtv.3a.ink/migu.php?id=cctv10
 CCTV-10 科教,http://120.46.223.160/PHP/MG.php?id=624878405
 CCTV-10 科教,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv10&q=cq
-CCTV-10 科教,http://1.24.39.180:9003/hls/10/index.m3u8
 CCTV-11 戏曲,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8
 CCTV-11 戏曲,http://ygbh.site/php/bfgd.php?id=130
 CCTV-11 戏曲,http://ygbh.site/php/bfgd.php?id=130
+CCTV-11 戏曲,http://bxtv.3a.ink/migu.php?id=cctv11
 CCTV-11 戏曲,http://120.46.223.160/PHP/MG.php?id=667987558
-CCTV-11 戏曲,http://1.24.39.180:9003/hls/11/index.m3u8
 CCTV-12 社会与法,http://111.227.196.164:9901/tsfile/live/faacts/0012_1.m3u8
 CCTV-12 社会与法,http://ygbh.site/php/bfgd.php?id=131
 CCTV-12 社会与法,http://ygbh.site/php/bfgd.php?id=131
+CCTV-12 社会与法,http://bxtv.3a.ink/migu.php?id=cctv12
 CCTV-12 社会与法,http://120.46.223.160/PHP/MG.php?id=673168185
 CCTV-12 社会与法,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv12&q=gq
-CCTV-12 社会与法,http://1.24.39.180:9003/hls/12/index.m3u8
 CCTV-13 新闻,http://61.156.228.12:8154/tsfile/live/0013_1.m3u8
 CCTV-13 新闻,http://ygbh.site/php/bfgd.php?id=067
 CCTV-13 新闻,http://ygbh.site/php/bfgd.php?id=067
+CCTV-13 新闻,http://bxtv.3a.ink/migu.php?id=cctv13
 CCTV-13 新闻,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv13&q=gq
 CCTV-14 少儿,http://111.227.196.164:9901/tsfile/live/faacts/0014_1.m3u8
 CCTV-14 少儿,http://ygbh.site/php/bfgd.php?id=132
 CCTV-14 少儿,http://ygbh.site/php/bfgd.php?id=132
+CCTV-14 少儿,http://bxtv.3a.ink/migu.php?id=cctv14
 CCTV-14 少儿,http://120.46.223.160/PHP/MG.php?id=624878440
-CCTV-14 少儿,http://1.24.39.180:9003/hls/14/index.m3u8
 CCTV-15 音乐,http://218.241.192.50:8808/rtp/239.3.1.153:8136
 CCTV-15 音乐,http://ygbh.site/php/bfgd.php?id=133
 CCTV-15 音乐,http://ygbh.site/php/bfgd.php?id=133
+CCTV-15 音乐,http://bxtv.3a.ink/migu.php?id=cctv15
 CCTV-15 音乐,http://120.46.223.160/PHP/MG.php?id=673168223
 CCTV-16 奥林匹克,http://218.241.192.50:8808/rtp/239.3.1.184:8001
 CCTV-16 奥林匹克,http://t.061899.xyz/tl/dq.php?id=cctv16
 CCTV-16 奥林匹克,http://t.061899.xyz/tl/dq.php?id=cctv16
-CCTV-16 奥林匹克,http://1.24.39.180:9003/hls/60/index.m3u8
 CCTV-17 农业农村,http://218.241.192.50:8808/rtp/239.3.1.151:8144
 CCTV-17 农业农村,http://ygbh.site/php/bfgd.php?id=204
 CCTV-17 农业农村,http://ygbh.site/php/bfgd.php?id=204
+CCTV-17 农业农村,http://bxtv.3a.ink/migu.php?id=cctv17
 CCTV-17 农业农村,http://120.46.223.160/PHP/MG.php?id=673168256
 CCTV-17 农业农村,http://106.53.99.30/php/cctv/cctvnews.php?id=cctv17&q=cq
-CCTV-17 农业农村,http://1.24.39.180:9003/hls/61/index.m3u8
 
 📺央视高清频道,#genre#
 CCTV-1,http://ygbh.site/php/bfgd.php?id=488
@@ -97,13 +101,15 @@ CCTV-5,http://ygbh.site/php/bfgd.php?id=064
 CCTV-5,http://218.241.192.50:8808/rtp/239.3.1.173:8001
 CCTV-5+,http://ygbh.site/php/bfgd.php?id=246
 CCTV-5+,http://218.241.192.50:8808/rtp/239.3.1.130:8004
+CCTV-5+,http://bxtv.3a.ink/migu.php?id=cctv5p
 CCTV-5+,http://120.46.223.160/PHP/MG.php?id=641886773
+CCTV-5+,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
 CCTV-6,http://ygbh.site/php/bfgd.php?id=065
-CCTV-6,http://1.24.39.180:9003/hls/6/index.m3u8
+CCTV-6,http://bxtv.3a.ink/migu.php?id=cctv6
 CCTV-7,http://ygbh.site/php/bfgd.php?id=127
 CCTV-8,http://ygbh.site/php/bfgd.php?id=066
+CCTV-8,http://bxtv.3a.ink/migu.php?id=cctv8
 CCTV-8,http://120.46.223.160/PHP/MG.php?id=624878356
-CCTV-8,http://1.24.39.180:9003/hls/8/index.m3u8
 CCTV-8,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,http://ygbh.site/php/bfgd.php?id=128
 CCTV-10,http://ygbh.site/php/bfgd.php?id=129
@@ -146,8 +152,8 @@ CCTV-5+体育赛事,http://ygbh.site/php/bfgd.php?id=246
 CCTV-5+体育赛事,http://218.241.192.50:8808/rtp/239.3.1.130:8004
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
-山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 天元围棋,http://ygbh.site/php/bfgd.php?id=144
 
 🌊港·澳·台,#genre#
@@ -171,6 +177,10 @@ TVb翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVb翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 华丽翡翠台,http://gotv.k.vu/api.php?id=Tvbjade
 华丽翡翠台,http://orz.jkun.cf/smt.php?id=Tvbjade
+TVB明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
+TVB明珠台,http://36.36.200.198:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+TVB明珠台,http://vallest.uk/livehttpplay?channel_id=30026
+TVB明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
@@ -185,20 +195,15 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新闻,http://8.138.7.223/tv/hot.php?id=71
-寰宇新闻,http://xtvantsc.xyz/litv_ts.php?id=litv-longturn14
-寰宇新闻,https://pxuchylhjchl.us-east-1.clawcloudrun.com/index.m3u8?pid=litv-longturn14&sd=1080&proxy=false
 东森新闻,http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
 民视,rtmp://f13h.mine.nu:1935/sat/tv051
 台视,rtmp://f13h.mine.nu:1935/sat/tv071
 台视,http://220.135.64.124:5050/li-4gtv-4gtv066/index.m3u8?proxy=true
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 中视,http://220.135.64.124:5050/li-4gtv-4gtv040/index.m3u8?proxy=true
-中视,http://51.89.166.17:3002/index.php?id=zhongshihd_twn
 华视,rtmp://f13h.mine.nu:1935/sat/tv111
 华视,http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true
-华视,http://51.89.166.17:3002/index.php?id=ctshd_twn
 番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
@@ -223,23 +228,25 @@ NewTV动作电影,http://www.douzhicloud.site:35455/huya/11352884
 喜乐影院,http://www.douzhicloud.site:35455/huya/21059580
 嫣然影厅,https://isus.cc/php/huya.php?id=11601977
 蘑菇影厅,http://www.douzhicloud.site:35455/huya/11601981
-纬来电影,http://orz.jkun.cf/smt.php?id=videolandmovie
 靖天映画,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240926215313&ip=111.229.253.40
 靖天戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240926215313&ip=111.229.253.40
 天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240926215313&ip=111.229.253.40
 星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240926215313&ip=111.229.253.40
 星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267?profile=pass
 东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240926215313&ip=111.229.253.40
-东森洋片,http://orz.jkun.cf/smt.php?id=ettvwestern
 
 🎬影片放映厅,#genre#
 经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
+贺岁电影,http://www.douzhicloud.site:35455/huya/11601971
 国产大片,http://www.douzhicloud.site:35455/huya/11352973
 经典港片,https://isus.cc/php/huya.php?id=11352965
 欧美大片,http://live.nctv.top/douyu.php?id=2793084
 欧美大片,http://epg.112114.eu.org/douyu/2793084
 粤语电影,http://222.186.39.21:35466/douyu/6566671
 粤语电影,http://129.150.54.232:10001/douyu/6566671
+功夫电影,http://live.nctv.top/huya.php?id=11352941
+功夫电影,http://www.douzhicloud.site:35455/huya/11352941
+功夫电影,http://cfss.cc/cdn/hy/11352941.m3u8
 喜剧电影,http://www.douzhicloud.site:35455/huya/11352877
 怪兽电影,http://www.douzhicloud.site:35455/huya/21059577
 战争电影,http://www.douzhicloud.site:35455/huya/21059592
@@ -266,12 +273,13 @@ NewTV动作电影,http://www.douzhicloud.site:35455/huya/11352884
 周星驰粤语,http://131.186.40.172:15002/huya/11336587
 周星驰电影,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 成龙电影,http://www.douzhicloud.site:35455/huya/11342386
-刘德华电影,http://live.nctv.top/huya.php?id=11342424
 刘德华电影,http://www.douzhicloud.site:35455/huya/11342424
+刘德华电影,http://live.nctv.top/huya.php?id=11342424
 古天乐电影,http://www.douzhicloud.site:35455/huya/11602041
-周润发电影,http://live.nctv.top/huya.php?id=11342387
-周润发电影,http://www.douzhicloud.site:35455/huya/11342387
 周润发电影,https://isus.cc/php/huya.php?id=11342387
+周润发电影,http://live.nctv.top/huya.php?id=11342387
+周润发电影,http://131.186.40.172:15002/huya/11342387
+周润发电影,http://www.douzhicloud.site:35455/huya/11342387
 林正英电影,http://iptv.jxpan.vip:18888/aio/huya/11342421
 林正英电影,http://129.150.54.232:10001/douyu/7356023
 洪金宝电影,http://www.douzhicloud.site:35455/huya/11279251
@@ -291,7 +299,7 @@ NewTV动作电影,http://www.douzhicloud.site:35455/huya/11352884
 爱情公寓,http://cfss.cc/cdn/hy/11336726.m3u8
 爱情公寓,http://iptv.jxpan.vip:18888/aio/huya/11336726
 武林外传,http://gcw.bdcdn.shoujiduoduo.com/v/190822/5668e504ad82c60607d315479d821990.mp4
-芈月传,http://live.nctv.top/huya.php?id=11352975
+武林外传,http://live.nctv.top/huya.php?id=21059598
 新三国,http://www.douzhicloud.site:35455/huya/11352944
 新水浒传,http://www.douzhicloud.site:35455/huya/11342384
 寻秦记,http://cfss.cc/cdn/hy/29465848.m3u8
@@ -301,6 +309,7 @@ NewTV动作电影,http://www.douzhicloud.site:35455/huya/11352884
 庆余年,http://zzy789.xyz/douyu1.php?id=7812810
 庆余年,http://www.douzhicloud.site:35455/huya/11352960
 西游记,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806671579134_hlsb.m3u8
+西游记,http://live.nctv.top/huya.php?id=26355861
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750
 神雕侠侣,http://www.douzhicloud.site:35455/huya/23865171
 天龙八部,https://godmusic.bs2dl.yy.com/dHZlZmVhMWUxMDYzYjQ0ZmJkYjU4MmE4NDlkYjRmNmMxMy0xMTY2Mzk0Njky?Cf=cf.mp4
@@ -316,6 +325,7 @@ NewTV动作电影,http://www.douzhicloud.site:35455/huya/11352884
 鬼吹灯之龙岭迷窟,http://iptv.jxpan.vip:18888/aio/huya/29465863
 鬼吹灯之云南虫谷,http://cfss.cc/cdn/hy/11352898.m3u8
 鬼吹灯之云南虫谷,http://iptv.jxpan.vip:18888/aio/huya/11352898
+特种兵之火凤凰,http://live.nctv.top/huya.php?id=29982636
 我是特种兵之利刃出鞘,http://www.douzhicloud.site:35455/yy/37999586
 乌龙闯情关,http://live.nctv.top/huya.php?id=26355767
 知否知否,http://www.douzhicloud.site:35455/yy/21881901
