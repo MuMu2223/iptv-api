@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MuMu2223/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-12-09 22:30:50
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-12-10 22:31:29
 http://218.241.192.50:8808/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="📺央视超清频道",CCTV-1 综合
 http://218.241.192.50:8808/rtp/239.3.1.129:8008
@@ -153,14 +153,8 @@ http://ygbh.site/php/bfgd.php?id=246
 http://218.241.192.50:8808/rtp/239.3.1.130:8004
 #EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰衛視中文台.png" group-title="🌊港·澳·台",鳳凰衛視中文台
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰衛視中文台.png" group-title="🌊港·澳·台",鳳凰衛視中文台
-http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰衛視資訊台.png" group-title="🌊港·澳·台",鳳凰衛視資訊台
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="鳳凰衛視資訊台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰衛視資訊台.png" group-title="🌊港·澳·台",鳳凰衛視資訊台
-http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰衛視香港台.png" group-title="🌊港·澳·台",鳳凰衛視香港台
-http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="鳳凰衛視香港台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰衛視香港台.png" group-title="🌊港·澳·台",鳳凰衛視香港台
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-name="TVb翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVb翡翠台.png" group-title="🌊港·澳·台",TVb翡翠台

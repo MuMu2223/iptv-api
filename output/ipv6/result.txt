@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-09 22:30:50,http://218.241.192.50:8808/rtp/239.3.1.129:8008
+2025-12-10 22:31:29,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 
 📺央视超清频道,#genre#
 CCTV-1 综合,http://218.241.192.50:8808/rtp/239.3.1.129:8008
@@ -88,10 +88,7 @@ CCTV-5+体育赛事,http://218.241.192.50:8808/rtp/239.3.1.130:8004
 
 🌊港·澳·台,#genre#
 鳳凰衛視中文台,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-鳳凰衛視中文台,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 鳳凰衛視資訊台,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-鳳凰衛視資訊台,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-鳳凰衛視香港台,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 鳳凰衛視香港台,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 TVb翡翠台,http://36.36.200.198:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
