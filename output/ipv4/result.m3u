@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MuMu2223/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-12-12 22:26:56
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2025-12-13 22:25:25
 http://218.241.192.50:8808/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="📺央视超清频道",CCTV-1 综合
 http://218.241.192.50:8808/rtp/239.3.1.129:8008
@@ -58,11 +58,11 @@ http://ygbh.site/php/bfgd.php?id=127
 #EXTINF:-1 tvg-name="CCTV7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7 国防军事.png" group-title="📺央视超清频道",CCTV-7 国防军事
 http://ygbh.site/php/bfgd.php?id=127
 #EXTINF:-1 tvg-name="CCTV7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7 国防军事.png" group-title="📺央视超清频道",CCTV-7 国防军事
+http://183.220.107.138:4022/rtp/239.11.0.110:5140
+#EXTINF:-1 tvg-name="CCTV7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7 国防军事.png" group-title="📺央视超清频道",CCTV-7 国防军事
 http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7 国防军事.png" group-title="📺央视超清频道",CCTV-7 国防军事
 http://omnix.cn:4000/udp/225.1.8.7:8104
-#EXTINF:-1 tvg-name="CCTV7 国防军事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV7 国防军事.png" group-title="📺央视超清频道",CCTV-7 国防军事
-http://183.220.107.138:4022/rtp/239.11.0.110:5140
 #EXTINF:-1 tvg-name="CCTV8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8 电视剧.png" group-title="📺央视超清频道",CCTV-8 电视剧
 http://218.241.192.50:8808/rtp/239.3.1.175:8001
 #EXTINF:-1 tvg-name="CCTV8 电视剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8 电视剧.png" group-title="📺央视超清频道",CCTV-8 电视剧
@@ -105,8 +105,6 @@ http://ygbh.site/php/bfgd.php?id=067
 http://ygbh.site/php/bfgd.php?id=067
 #EXTINF:-1 tvg-name="CCTV13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13 新闻.png" group-title="📺央视超清频道",CCTV-13 新闻
 http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="CCTV13 新闻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13 新闻.png" group-title="📺央视超清频道",CCTV-13 新闻
-http://144.255.32.94:8288/rtp/239.21.2.3:5002
 #EXTINF:-1 tvg-name="CCTV14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14 少儿.png" group-title="📺央视超清频道",CCTV-14 少儿
 http://111.227.196.164:9901/tsfile/live/faacts/0014_1.m3u8
 #EXTINF:-1 tvg-name="CCTV14 少儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14 少儿.png" group-title="📺央视超清频道",CCTV-14 少儿
@@ -179,8 +177,6 @@ http://t.061899.xyz/tl/dq.php?id=cctv16
 http://ygbh.site/php/bfgd.php?id=204
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视高清频道",CETV-1
 http://171.125.90.120:6001/rtp/226.0.2.181:9360
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视高清频道",CETV-1
-http://144.255.32.94:8288/rtp/239.21.2.7:5002
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视高清频道",CETV-2
 http://ygbh.site/php/bfgd.php?id=492
 #EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV3.png" group-title="📺央视高清频道",CETV-3
@@ -203,6 +199,8 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 rtmp://live.gxrb.com.cn/hls/a23
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
 http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="📡卫视频道",海南卫视
+http://124.64.223.204:8686/rtp/239.3.1.45:8304
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="📡卫视频道",河南卫视
@@ -230,9 +228,9 @@ http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 #EXTINF:-1 tvg-name="体育赛事" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/体育赛事.png" group-title="🏀体育频道",体育赛事
 http://144.255.32.94:8288/rtp/239.21.2.44:5002
 #EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png" group-title="🏀体育频道",山东体育
-http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png" group-title="🏀体育频道",山东体育
 https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png" group-title="🏀体育频道",山东体育
+http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天元围棋.png" group-title="🏀体育频道",天元围棋
 http://ygbh.site/php/bfgd.php?id=144
 #EXTINF:-1 tvg-name="鳳凰衛視中文台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/鳳凰衛視中文台.png" group-title="🌊港·澳·台",鳳凰衛視中文台
@@ -250,15 +248,11 @@ http://36.36.200.198:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-name="TVb翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVb翡翠台.png" group-title="🌊港·澳·台",TVb翡翠台
 https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-name="TVb翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVb翡翠台.png" group-title="🌊港·澳·台",TVb翡翠台
-http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-name="TVb翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVb翡翠台.png" group-title="🌊港·澳·台",TVb翡翠台
 http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 #EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华丽翡翠台.png" group-title="🌊港·澳·台",华丽翡翠台
 http://orz.jkun.cf/smt.php?id=Tvbjade
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="🌊港·澳·台",TVB明珠台
 http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="🌊港·澳·台",TVB明珠台
-http://36.36.200.198:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
@@ -291,8 +285,6 @@ rtmp://f13h.mine.nu:1935/sat/tv071
 http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5430
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="🌊港·澳·台",中视
 rtmp://f13h.mine.nu:1935/sat/tv091
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="🌊港·澳·台",中视
-http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5005
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="🌊港·澳·台",华视
 rtmp://f13h.mine.nu:1935/sat/tv111
 #EXTINF:-1 tvg-name="番薯台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/番薯台.png" group-title="🌊港·澳·台",番薯台
@@ -326,9 +318,9 @@ rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
-http://171.83.103.119:9999/rtp/239.69.1.242:11094
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 http://111.43.126.240:7777/hls/75/index.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+http://171.83.103.119:9999/rtp/239.69.1.242:11094
 #EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/NewTV动作电影.png" group-title="🎬电影频道",NewTV动作电影
 http://www.douzhicloud.site:35455/huya/11352884
 #EXTINF:-1 tvg-name="1905电影网" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1905电影网.png" group-title="🎬电影频道",1905电影网
@@ -345,8 +337,6 @@ http://www.douzhicloud.site:35455/huya/21059580
 http://www.douzhicloud.site:35455/huya/11601977
 #EXTINF:-1 tvg-name="蘑菇影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/蘑菇影厅.png" group-title="🎬电影频道",蘑菇影厅
 http://www.douzhicloud.site:35455/huya/11601981
-#EXTINF:-1 tvg-name="靖天映画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🎬电影频道",靖天映画
-http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5105
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬电影频道",东森洋片
 http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5454
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬影片放映厅",经典电影
@@ -355,24 +345,18 @@ https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 http://lxajh.top/tv/douyu.php?id=74374
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="🎬影片放映厅",经典电影
 http://183.220.107.138:4022/rtp/239.10.0.122:5140
-#EXTINF:-1 tvg-name="贺岁电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贺岁电影.png" group-title="🎬影片放映厅",贺岁电影
-http://live.nctv.top/huya.php?id=11601986
 #EXTINF:-1 tvg-name="国产大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/国产大片.png" group-title="🎬影片放映厅",国产大片
 http://www.douzhicloud.site:35455/huya/11352973
-#EXTINF:-1 tvg-name="经典港片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/经典港片.png" group-title="🎬影片放映厅",经典港片
-http://live.nctv.top/huya.php?id=11352965
 #EXTINF:-1 tvg-name="欧美大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欧美大片.png" group-title="🎬影片放映厅",欧美大片
 http://live.nctv.top/douyu.php?id=2793084
 #EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="🎬影片放映厅",粤语电影
-http://222.186.39.21:35466/douyu/6566671
-#EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="🎬影片放映厅",粤语电影
 http://129.150.54.232:10001/douyu/6566671
+#EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="🎬影片放映厅",粤语电影
+http://222.186.39.21:35466/douyu/6566671
 #EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="🎬影片放映厅",粤语电影
 http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5191
 #EXTINF:-1 tvg-name="功夫电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/功夫电影.png" group-title="🎬影片放映厅",功夫电影
 http://live.nctv.top/huya.php?id=11352941
-#EXTINF:-1 tvg-name="功夫电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/功夫电影.png" group-title="🎬影片放映厅",功夫电影
-http://www.douzhicloud.site:35455/huya/11352941
 #EXTINF:-1 tvg-name="喜剧电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧电影.png" group-title="🎬影片放映厅",喜剧电影
 http://www.douzhicloud.site:35455/huya/11352877
 #EXTINF:-1 tvg-name="怪兽电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怪兽电影.png" group-title="🎬影片放映厅",怪兽电影
@@ -381,16 +365,12 @@ http://www.douzhicloud.site:35455/huya/21059577
 http://live.nctv.top/huya.php?id=21059554
 #EXTINF:-1 tvg-name="战争电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/战争电影.png" group-title="🎬影片放映厅",战争电影
 http://www.douzhicloud.site:35455/huya/21059592
-#EXTINF:-1 tvg-name="武侠电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠电影.png" group-title="🎬影片放映厅",武侠电影
-http://www.douzhicloud.site:35455/huya/11342427
 #EXTINF:-1 tvg-name="罪犯电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/罪犯电影.png" group-title="🎬影片放映厅",罪犯电影
 http://www.douzhicloud.site:35455/huya/11352974
 #EXTINF:-1 tvg-name="警匪电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/警匪电影.png" group-title="🎬影片放映厅",警匪电影
 http://www.douzhicloud.site:35455/huya/11352886
 #EXTINF:-1 tvg-name="玄幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/玄幻电影.png" group-title="🎬影片放映厅",玄幻电影
 http://live.nctv.top/huya.php?id=11342414
-#EXTINF:-1 tvg-name="玄幻电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/玄幻电影.png" group-title="🎬影片放映厅",玄幻电影
-http://cfss.cc/cdn/hy/11342414.m3u8
 #EXTINF:-1 tvg-name="谍战电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/谍战电影.png" group-title="🎬影片放映厅",谍战电影
 http://live.nctv.top/huya.php?id=21059585
 #EXTINF:-1 tvg-name="枪战电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/枪战电影.png" group-title="🎬影片放映厅",枪战电影
@@ -423,6 +403,10 @@ http://131.186.40.172:15002/huya/11342412
 http://131.186.40.172:15002/huya/11336587
 #EXTINF:-1 tvg-name="周星驰电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/周星驰电影.png" group-title="🎬-影星专场-",周星驰电影
 http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+#EXTINF:-1 tvg-name="成龙电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙电影.png" group-title="🎬-影星专场-",成龙电影
+http://www.douzhicloud.site:35455/huya/11342386
+#EXTINF:-1 tvg-name="成龙电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/成龙电影.png" group-title="🎬-影星专场-",成龙电影
+http://cfss.cc/cdn/hy/11342386.m3u8
 #EXTINF:-1 tvg-name="刘德华电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刘德华电影.png" group-title="🎬-影星专场-",刘德华电影
 http://www.douzhicloud.site:35455/huya/11342424
 #EXTINF:-1 tvg-name="古天乐电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/古天乐电影.png" group-title="🎬-影星专场-",古天乐电影
@@ -440,17 +424,17 @@ http://129.150.54.232:10001/douyu/7356023
 #EXTINF:-1 tvg-name="洪金宝电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洪金宝电影.png" group-title="🎬-影星专场-",洪金宝电影
 http://www.douzhicloud.site:35455/huya/11279251
 #EXTINF:-1 tvg-name="梁家辉电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梁家辉电影.png" group-title="🎬-影星专场-",梁家辉电影
-http://live.nctv.top/huya.php?id=11342429
-#EXTINF:-1 tvg-name="梁家辉电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/梁家辉电影.png" group-title="🎬-影星专场-",梁家辉电影
 http://www.douzhicloud.site:35455/huya/11342429
 #EXTINF:-1 tvg-name="甄子丹电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甄子丹电影.png" group-title="🎬-影星专场-",甄子丹电影
-http://www.douzhicloud.site:35455/huya/11352935
-#EXTINF:-1 tvg-name="甄子丹电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甄子丹电影.png" group-title="🎬-影星专场-",甄子丹电影
 http://live.nctv.top/huya.php?id=11352935
+#EXTINF:-1 tvg-name="李连杰电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/李连杰电影.png" group-title="🎬-影星专场-",李连杰电影
+http://live.nctv.top/huya.php?id=11342390
 #EXTINF:-1 tvg-name="李连杰电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/李连杰电影.png" group-title="🎬-影星专场-",李连杰电影
 http://www.douzhicloud.site:35455/huya/11342390
 #EXTINF:-1 tvg-name="许冠英电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/许冠英电影.png" group-title="🎬-影星专场-",许冠英电影
 http://www.douzhicloud.site:35455/huya/11601972
+#EXTINF:-1 tvg-name="许冠英电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/许冠英电影.png" group-title="🎬-影星专场-",许冠英电影
+http://cfss.cc/cdn/hy/11601972.m3u8
 #EXTINF:-1 tvg-name="黄渤电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黄渤电影.png" group-title="🎬-影星专场-",黄渤电影
 http://www.douzhicloud.site:35455/huya/11352876
 #EXTINF:-1 tvg-name="沈腾电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/沈腾电影.png" group-title="🎬-影星专场-",沈腾电影
@@ -469,6 +453,8 @@ http://cfss.cc/cdn/hy/11336726.m3u8
 http://iptv.jxpan.vip:18888/aio/huya/11336726
 #EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🎬电视剧频道",武林外传
 http://gcw.bdcdn.shoujiduoduo.com/v/190822/5668e504ad82c60607d315479d821990.mp4
+#EXTINF:-1 tvg-name="武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/武林外传.png" group-title="🎬电视剧频道",武林外传
+http://live.nctv.top/huya.php?id=21059598
 #EXTINF:-1 tvg-name="芈月传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/芈月传.png" group-title="🎬电视剧频道",芈月传
 http://www.douzhicloud.site:35455/huya/11352975
 #EXTINF:-1 tvg-name="新三国" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新三国.png" group-title="🎬电视剧频道",新三国
