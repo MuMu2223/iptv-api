@@ -18,10 +18,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 杰森斯坦电影,http://cfss.cc/cdn/hy/21059588.m3u8
 
 #🎬电视剧频道,#genre#
-爱情公寓,http://cfss.cc/cdn/hy/11336726.m3u8
-爱情公寓,http://iptv.jxpan.vip:18888/aio/huya/11336726
-寻秦记,http://cfss.cc/cdn/hy/29465848.m3u8
-寻秦记,http://iptv.jxpan.vip:18888/aio/huya/29465848
 铁齿铜牙纪晓岚,https://live.metshop.top/huya/11342396
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.m3u8
 鬼吹灯之精绝古城,http://cfss.cc/cdn/hy/11352871.m3u8
