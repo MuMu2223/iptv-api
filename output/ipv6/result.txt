@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-21 22:46:46,http://218.241.192.50:8808/rtp/239.3.1.129:8008
+2026-08-22 22:34:29,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 
 📺央视超清频道,#genre#
 CCTV-1 综合,http://218.241.192.50:8808/rtp/239.3.1.129:8008
@@ -112,6 +112,7 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 寻秦记,http://cfss.cc/cdn/hy/29465848.m3u8
 铁齿铜牙纪晓岚,https://live.metshop.top/huya/11342396
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.m3u8
+铁齿铜牙纪晓岚,https://live.metshop.top/huya/11342396
 鬼吹灯之精绝古城,http://cfss.cc/cdn/hy/11352871.m3u8
 鬼吹灯之精绝古城,http://iptv.jxpan.vip:18888/aio/huya/11352871
 鬼吹灯之怒晴湘西,http://cfss.cc/cdn/hy/11602075.m3u8
