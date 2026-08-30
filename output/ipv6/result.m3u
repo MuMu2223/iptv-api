@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/MuMu2223/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2026-08-30 01:43:24
+#EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="🕘️更新时间",2026-08-31 02:08:16
 http://218.241.192.50:8808/rtp/239.3.1.129:8008
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1 综合.png" group-title="📺央视超清频道",CCTV-1 综合
 http://218.241.192.50:8808/rtp/239.3.1.129:8008
@@ -313,6 +313,8 @@ https://vd4.bdstatic.com/mda-nmcde2gcrk3fjt5z/576p/h264/1670925006665758590/mda-
 https://vd2.bdstatic.com/mda-pa59wsxnp6hvw6cd/576p/h264/1672989122541301764/mda-pa59wsxnp6hvw6cd.mp4
 #EXTINF:-1 tvg-name="李宗盛《2006理性与感性演唱会 完整版》" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/李宗盛《2006理性与感性演唱会 完整版》.png" group-title="🎵演唱会",李宗盛《2006理性与感性演唱会 完整版》
 https://vd4.bdstatic.com/mda-pb24ivm6mtvf47cw/hd/cae_h264/1675401338311630042/mda-pb24ivm6mtvf47cw.mp4
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="📺-X-📺",CGTN
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="📺-X-📺",CGTN
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN纪录.png" group-title="📺-X-📺",CGTN纪录

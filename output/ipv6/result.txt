@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-30 01:43:24,http://218.241.192.50:8808/rtp/239.3.1.129:8008
+2026-08-31 02:08:16,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 
 📺央视超清频道,#genre#
 CCTV-1 综合,http://218.241.192.50:8808/rtp/239.3.1.129:8008
@@ -182,5 +182,6 @@ CCTV-15,http://ygbh.site/php/bfgd.php?id=133
 李宗盛《2006理性与感性演唱会 完整版》,https://vd4.bdstatic.com/mda-pb24ivm6mtvf47cw/hd/cae_h264/1675401338311630042/mda-pb24ivm6mtvf47cw.mp4
 
 📺-X-📺,#genre#
+CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
