@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-02 01:47:49,http://218.241.192.50:8808/rtp/239.3.1.129:8008
+2026-09-03 01:49:13,http://218.241.192.50:8808/rtp/239.3.1.129:8008
 
 📺央视超清频道,#genre#
 CCTV-1 综合,http://218.241.192.50:8808/rtp/239.3.1.129:8008
@@ -184,5 +184,4 @@ CCTV-15,http://ygbh.site/php/bfgd.php?id=133
 📺-X-📺,#genre#
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
