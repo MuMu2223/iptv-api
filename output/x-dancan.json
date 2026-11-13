@@ -1,0 +1,25 @@
+{
+  "spider": "",
+  "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+  "lives": [
+    {
+      "name": "易发直播",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "sites": [
+    {
+      "key": "csp_CainiSi",
+      "name": "菜妮丝",
+      "type": 4,
+      "api": "https://tv.xn--yhqu5zs87a.top",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
